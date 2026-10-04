@@ -1,6 +1,6 @@
 # Hi 👋 I'm Chhun Chansreypich
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0A66C2\&size=30\&center=true\&vCenter=true\&width=600\&lines=Computer+Science+Student;Interested+in+Data+Analyzer;Learning+Programming;Passionat+in+DevOps+AND+QA;Welcome+to+my+GitHub!)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=4999&pause=1000&color=0B2A36&width=435&lines=Welcome+to+my+github+!;Computer+Science+student;Interested+in+Data+Analytics+;Develop+websites+and+Design+UX%2FUI)](https://git.io/typing-svg)
 
 ---
 
@@ -72,11 +72,6 @@ Turning curiosity into code and ideas into reality
 
 ---
 
-## 🐍 Contribution Snake
-
-![snake gif](https://github.com/channsreypich/channsreypich/blob/output/github-contribution-grid-snake.svg)
-
----
 
 ## ✨ Connect With Me
 
