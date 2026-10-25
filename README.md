@@ -1,6 +1,6 @@
 # Hi 👋 I'm Chhun Chansreypich
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=4999&pause=1000&color=0B2A36&width=435&lines=Welcome+to+my+github+!;Computer+Science+student;Interested+in+Data+Analytics+;Develop+websites+and+Design+UX%2FUI)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Gabarito&weight=500&size=30&duration=2500&pause=1000&color=30A1E0D8&width=435&lines=Welcome+to+my+github+profile!;Computer+Science+student+;Interested+in+Develop+;and+Design+web+application;and+now+is+Data+Analyzer)](https://git.io/typing-svg)
 
 ---
 
@@ -16,17 +16,33 @@
 ## 🚀 Tech Stack
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,js,java,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,java,postgres,docker,git,github&perline=5&theme=dark" />
 </p>
 
 ---
 
 ## 🏷️ Programming Languages
-
-![Java](https://img.shields.io/badge/Java-red?style=for-the-badge\&logo=java)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge\&logo=javascript)
+### Frontend:
 ![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge\&logo=html5)
 ![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge\&logo=css3)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge\&logo=javascript)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+
+### Backend:
+![Java](https://img.shields.io/badge/Java-red?style=for-the-badge\&logo=java)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+
+### Others:
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
