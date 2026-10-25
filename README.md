@@ -75,7 +75,7 @@ Turning curiosity into code and ideas into reality
 
 ## ✨ Connect With Me
 
-* GitHub: https://github.com/YOUR_USERNAME
+* GitHub: [https://github.com/YOUR_USERNAME](https://github.com/channsreypich)
 * Email: [chhunchansreypich645@gmail.com](mailto:chhunchansreypich645@gmail.com)
 * Facebook: https://www.facebook.com/profile.php?id=61581915696010
 
